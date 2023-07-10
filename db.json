@@ -285,5 +285,12 @@
       "heartId": 124,
       "commentId": 12345
     }
+  ],
+  "about": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
   ]
 }
